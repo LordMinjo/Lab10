@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Lab10\Lab10\bin\Debug\Lab10.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Lab10\Lab10\bin\Debug\Lab10.exe
+\\mac\home\documents\visual studio 2015\Projects\Lab10\Lab10\bin\Debug\Lab10.pdb
+\\mac\home\documents\visual studio 2015\Projects\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Lab10\Lab10\obj\Debug\Lab10.exe
+\\mac\home\documents\visual studio 2015\Projects\Lab10\Lab10\obj\Debug\Lab10.pdb
